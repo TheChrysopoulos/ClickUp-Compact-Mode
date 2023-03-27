@@ -1,4 +1,3 @@
-
 .cu-task-row__container {
     min-height: 0px !important;
 }
@@ -12,6 +11,7 @@
     width: 24px !important;
     height: 24px !important;
 }
+
 .cu-avatar__online {
     width: 6px !important;
     height: 6px !important;
@@ -37,7 +37,7 @@
 }
 
 .cu-task-list-header-settings__toggles {
-margin-block-start: 0 !important;
+    margin-block-start: 0 !important;
 }
 
 .cu-task-list-header__item_main {
